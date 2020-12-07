@@ -7,6 +7,6 @@
 
 * Watch the video to see the menus.
 
-Link to Figma Design -> https://www.figma.com/file/ujYwDkXd5mZgHNXSfZQjDk/Untitled?node-id=0%3A1
+* Link to Figma Design -> https://www.figma.com/file/ujYwDkXd5mZgHNXSfZQjDk/Untitled?node-id=0%3A1
 
 
